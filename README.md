@@ -1,4 +1,4 @@
-# EP 1 UE 3 Standortanalyse
+# EP 3 Standortanalyse
 Standortanalyse![enter image description here](https://github.com/DHMBerlin/GIS/blob/main/Döner-Berlin.png?raw=true)
 
 Berlin-Grenze, Ortsteilgrenzen und Dönerläden laden und lokal zwischenspeichern.
